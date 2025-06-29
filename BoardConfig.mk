@@ -140,7 +140,7 @@ TARGET_RECOVERY_INITRC := $(DEVICE_PATH)/recovery/root/init.recovery.mt6768.rc
 # TWRP Configuration
 TW_BACKUP_EXCLUSIONS := /Files/fonts
 TW_EXTRA_LANGUAGES := false
-TW_DEFAULT_LANGUAGE := ru
+TW_DEFAULT_LANGUAGE := en
 TW_SCREEN_BLANK_ON_BOOT := true
 
 # Debug
@@ -192,4 +192,4 @@ RECOVERY_SDCARD_ON_DATA := true
 TW_EXCLUDE_DEFAULT_USB_INIT := true
 
 # Device 
-TW_DEVICE_VERSION := SPARK 20 by SK
+TW_DEVICE_VERSION := Heribert Yavuz
